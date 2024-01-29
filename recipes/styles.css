@@ -1,0 +1,23 @@
+h2, h1{
+    color: rgba(235, 149, 50, 1);
+}
+
+#header{
+    color: rgba(242, 120, 75, 1);
+}
+
+.foods{
+    font-weight: bold;
+    font-size: 50px;
+    color: #666600;
+}
+
+a:visited{
+color: black;
+text-decoration: none;
+
+}
+a:hover{
+    color:orange;
+    text-decoration: antiquewhite;
+}
