@@ -11,6 +11,9 @@ h2, h1{
     font-size: 50px;
     color: #666600;
 }
+a:link{
+    text-decoration: none;
+}
 
 a:visited{
 color: black;
@@ -19,5 +22,13 @@ text-decoration: none;
 }
 a:hover{
     color:orange;
-    text-decoration: antiquewhite;
+    text-decoration: none;
+}
+
+a:active{
+    text-decoration: none;
+}
+
+.Home{
+    font-size: 20px;
 }
